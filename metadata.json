@@ -1,0 +1,7 @@
+{
+  "name": "SKIN OPS",
+  "description": "Tactical real-time skin decision engine to optimize barrier health and routine timing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
